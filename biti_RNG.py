@@ -90,3 +90,7 @@ if r1*100 <=110 and r2*100 <=110:
 else:
     print("0")
 
+#
+#Modificare fisier
+#
+
